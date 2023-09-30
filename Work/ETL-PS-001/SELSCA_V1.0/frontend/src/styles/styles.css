@@ -1,0 +1,27 @@
+
+
+.spacedGrid {
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  padding : 20px;
+}
+
+.primarySelect {
+  background-color: #b5b5b5;
+  color: #b5b5b5;
+}
+
+.unchangedText { 
+  background-color : #b5b5b5;
+}
+
+.loginTypography {
+  color: #FDFDFF;
+}
+
+.loginSelect {
+  color : #FDFDFF;
+}
+
+.darkTextField {}
